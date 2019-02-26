@@ -187,8 +187,8 @@ main {
 
 .projects {
   display: grid;
-  grid-gap: 0.7rem;
-  grid-template-columns: repeat(3, 1fr); }
+  grid-gap: 0.5rem;
+  grid-template-columns: repeat(2, 1fr); }
   .projects img {
     width: 100%;
     border: 3px #fff solid; }
